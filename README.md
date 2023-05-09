@@ -1,5 +1,4 @@
-## [*OCSEAN*](https://www.ocsean.eu/) workshop on linguistic data 
-collection and data processing
+## [*OCSEAN*](https://www.ocsean.eu/) workshop on linguistic data collection and data processing
 
 This is a repository of my notes during the OCSEAN workshop held by the 
 Doctoral of Linguistics and the Bachelor of English Study Programs, 
