@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18f667ca12513d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCSEAN-day-2 (9 May 2023).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41779af9a1e204ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCSEAN-day-3 (10 May 2023).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,6 +89,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5d2536c5f937837d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OCSEAN-day-2 (9 May 2023).md",
+                "file": "OCSEAN-day-3 (10 May 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OCSEAN-day-2 (9 May 2023).md",
+                "file": "OCSEAN-day-3 (10 May 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCSEAN-day-2 (9 May 2023).md"
+                "file": "OCSEAN-day-3 (10 May 2023).md"
               }
             }
           }
@@ -146,9 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "010b0f5a696ea807",
+  "active": "41779af9a1e204ec",
   "lastOpenFiles": [
-    "OCSEAN-day-1 (8 May 2023).md",
-    "OCSEAN-day-2 (9 May 2023).md"
+    "OCSEAN-day-2 (9 May 2023).md",
+    "OCSEAN-day-3 (10 May 2023).md",
+    "OCSEAN-day-1 (8 May 2023).md"
   ]
 }
