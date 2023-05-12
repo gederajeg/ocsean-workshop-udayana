@@ -24,4 +24,20 @@
 4. reconstruct a proto-sound and posit sound changes
 5. repeat with more data
 
+## confounding issues -- similarities due to some factors
+- chance similarities (e.g., Sanskrit *dva* and Malay *dua*; Ainu *abe, api* and Malay *api*)
+- language universals (e.g., words for MOTHER across languages [i.e., Spanish *mamá*, Samoan *mama*])
+- borrowing
+
+### Correspondence set
+- definition: "Which sounds correspond to which sounds in another language"
+
+## Principals of historical linguistics
+- avoid unconditional splits
+- posit common sound changes (e.g., lenition)
+	- https://chridd.nfshost.com/diachronica/
+- posit the least number of sound changes possible
+- avoid positing novel proto-phonemes
+- try to reconstruct a realistic proto-language
+
 
